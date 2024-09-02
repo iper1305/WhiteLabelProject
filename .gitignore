@@ -16,6 +16,10 @@ out/
 # Allure reports
 allure-results/
 allure-report/
+.allure
+
+# Build
+build
 
 # Logs
 *.log
